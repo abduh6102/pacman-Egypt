@@ -1,0 +1,12 @@
+## Austria
+Server = http://mirror.alwyzon.net/archlinux/$repo/os/$arch
+Server = https://mirror.alwyzon.net/archlinux/$repo/os/$arch
+Server = http://mirror.digitalnova.at/archlinux/$repo/os/$arch
+Server = http://mirror.easyname.at/archlinux/$repo/os/$arch
+Server = https://at.arch.mirror.kescher.at/$repo/os/$arch
+Server = http://mirror.reisenbauer.ee/archlinux/$repo/os/$arch
+Server = https://mirror.reisenbauer.ee/archlinux/$repo/os/$arch
+
+## Ecuador
+Server = http://mirror.cedia.org.ec/archlinux/$repo/os/$arch
+Server = http://mirror.espoch.edu.ec/archlinux/$repo/os/$arch
